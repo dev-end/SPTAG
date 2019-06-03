@@ -3,7 +3,7 @@
 ### **Index Build**
  ```bash
  Usage:
- ./IndexBuiler [options]
+ ./IndexBuilder [options]
  Options:
   -d, --dimension <value>       Dimension of vector, required.
   -v, --vectortype <value>      Input vector data type (e.g. Float, Int8, Int16), required.
